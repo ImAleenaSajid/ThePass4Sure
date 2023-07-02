@@ -1,0 +1,50 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.row
+{
+    height: 65px;
+    width: 100%;
+    background-image: url('CSS IMG/section2bc.png');
+}
+
+.Innerrow
+{
+    padding-left: 200px;
+    padding-right: 166px;
+}
+
+.rowl 
+{
+    list-style: none;
+}
+
+.rowl li
+{
+    float: left;
+    width: 163px;
+    text-align: left;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+.rowl li a
+{
+    text-decoration: none;
+    font-family: arial;
+    font-size: 18px;
+    color: rgb(191, 2, 3);;
+
+}
+
+.rowl li a:hover
+{
+    color: #f4f3f1;
+}
+
+img
+{
+    float: left;
+}

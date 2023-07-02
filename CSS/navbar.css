@@ -1,0 +1,46 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav
+{
+    height: 46px;
+    width: 100%;
+    background-image: url('CSS IMG/navbc.png');
+}
+
+.InnerNav
+{
+    padding-left: 200px;
+    padding-right: 166px;
+}
+
+.list 
+{
+    list-style: none;
+}
+
+.list li
+{
+    float: left;
+    width: 91px;
+    text-align: center;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-left: 1px solid #e8e2da;
+}
+
+.list li a
+{
+    text-decoration: none;
+    font-family: arial;
+    font-size: 13px;
+    color: #767471;
+}
+
+.list li a:hover
+{
+    color: #f4f3f1;
+}

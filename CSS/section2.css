@@ -1,0 +1,262 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.section2
+{
+  height: 464px;
+  width: 100%;
+  background-image: url('CSS IMG/section2bc.png');
+  /* background-repeat: no-repeat; */
+}
+
+.Innersection2
+{
+    padding-left: 200px;
+    padding-right: 150px;
+}
+
+.box1
+{
+    float: left;
+    width: 259px;
+    height: 461px;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+
+.box2
+{
+    float: left;
+    width: 259px;
+    height: 461px;
+    margin-left: 33px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+
+.box3
+{
+    float: left;
+    width: 379px;
+    height: 461px;
+    margin-left: 33px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+
+.para
+{
+    width: 249px;
+    height: 27px;
+    padding-top: 8px;
+    padding-left: 10px;
+    background-image: url('CSS IMG/tabsbc.png');
+    font-size: arial;
+    font-weight: bold;
+    font-size: 15px;
+    color: #f4e9e9;
+}
+
+#rdp
+{
+    width: 369px;  
+}
+
+.box1components
+{
+    padding-top: 17px;
+    padding-left: 20px;
+}
+
+.textBox1
+{
+    padding: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
+    color: #989898;
+    font-weight: bold;
+}
+
+.circletick
+{
+    margin-right: 13px;
+}
+
+.textwithoutcircle
+{
+    margin-left: 33px;
+}
+
+.boxbtn
+{
+    height: 29px;
+    width: 126px;
+    margin-top: 14px;
+    margin-left: 23px;
+}
+
+.boxbtn button
+{
+    border-radius: 6px;
+    font-size: arial;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 5px;
+    background-image: url('CSS IMG/tabsbc.png');
+    border: 0px;
+    color: #f4e9e9;
+}
+
+
+.tomakefloat
+{
+    float: left;
+}
+
+#moneyback
+{
+    float: right;
+    margin-bottom: 60px;
+    margin-right: 13px;
+}
+
+#pbox2
+{
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 17px;
+    font-size: 13px;
+    /* text-align:justify; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8c8c8c;
+    /* font-weight: bold; */
+}
+
+#redline
+{
+    color: #bf0203;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-left: 29px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textBox2
+{
+    color: #8c8c8c;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+
+.star
+{
+    margin-left: 29px;
+}
+
+#box2btn
+{
+    height: 29px;
+    width: 126px;
+    margin-top: 111px;
+    margin-left: 23px;
+}
+
+#box2btn button
+{
+    border-radius: 6px;
+    font-size: arial;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 5px;
+    background-image: url('CSS IMG/tabsbc.png');
+    border: 0px;
+    color: #f4e9e9;
+}
+
+#l1
+{
+    width: 166px;
+    height:88px ;
+    margin-top: 12px ;
+    margin-left:24px ;
+    float: left;
+}
+
+.items
+{
+    margin-left:44px ;
+}
+
+.aOfbox3
+{
+    text-decoration: none;
+    color: #bfbfbf;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#l2
+{
+    width: 166px;
+    height:88px ;
+    margin-top: 12px ;
+    float: left;
+    margin-left: 10px;
+}
+
+#l3
+{
+    width: 166px;
+    height:88px ;
+    margin-top: 12px ;
+    margin-left:24px ;
+    float: left;
+}
+
+#l4
+{
+    width: 166px;
+    height:88px ;
+    margin-top: 12px ;
+    float: left;
+    margin-left: 10px;
+}
+
+#l5
+{
+    width: 166px;
+    height:88px ;
+    margin-top: 12px ;
+    margin-left:24px ;
+    float: left;
+}
+
+#l6
+{
+    width: 166px;
+    height:88px ;
+    margin-top: 12px ;
+    float: left;
+    margin-left: 10px;
+}
+
+.box3img
+{margin-right: 6px;}
+
+.box3text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #8c8c8c;
+}
+.aOfbox3:hover
+{
+    text-decoration: underline;
+}

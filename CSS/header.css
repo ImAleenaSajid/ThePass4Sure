@@ -1,0 +1,65 @@
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head
+{
+  height: 100px;
+  width: 100%;
+  background-image: url('CSS IMG/bc.png');
+}
+
+.InnerHead
+{
+    padding-left: 200px;
+    padding-right: 150px;
+}
+
+.logo
+{
+    float: left;
+    padding-top: 4px;
+}
+
+.searchbar
+{
+    float: left;
+    margin-left: 335px;
+    padding-top: 26px;
+}
+
+#search
+{
+    border-radius: 6px;
+    width: 302px;
+    height: 26px;
+    border: 1px solid #1c5f6d;
+    padding-left: 9px;
+    color: #a2a1a1;
+    font-size: 12pt;
+    font-family: arial;
+}
+
+.icon
+{
+    float: left;
+    margin-left: -28px;
+    margin-top: 34px;
+}
+
+.btn button
+{
+    background-image: url('CSS IMG/btnbg.png');
+    border: 1px solid #890603;
+    width: 68px;
+    height: 26px;
+    border-radius: 6px;
+    margin-left: 8px;
+    margin-top: 26px;
+    font-family: arial;
+    font-size: 12pt;
+    color: #dbbebd;
+}

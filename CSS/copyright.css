@@ -1,0 +1,34 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cpy
+{
+  height: 69px;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.InnerCpy
+{
+    padding-left: 200px;
+    padding-right: 150px;
+}
+
+#p1
+{
+    margin-left: 521px;
+    font-size: 14px;
+    font-family: Myriad Pro;
+    color: #c3c3c3;
+}
+
+#p2
+{
+    margin-left: 413px;
+    font-size: 14px;
+    font-family: Myriad Pro;
+    color: #c3c3c3;
+}
